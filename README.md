@@ -1,4 +1,4 @@
-# Automatic Door SYSTEM
+# Automatic Door System
 
 <h3>This is an automatic door system app made using reactjs and nodejs.</h3>
 
